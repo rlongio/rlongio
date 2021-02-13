@@ -1,7 +1,9 @@
 <h2>Hey there, I'm Ryan! 👋</h2>
 
 [![Linkedin: Ryan Long](https://img.shields.io/badge/-RyanRLong-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryanrlong/)](https://www.linkedin.com/in/ryanrlong/)
+
 [![GitHub rlong.io](https://img.shields.io/github/followers/rlongio?label=follow&style=social)](https://github.com/rlongio)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fryanrlong)]
 
 ## About Me
 
